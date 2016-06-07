@@ -11,9 +11,10 @@
 * Address = 0x74
 
 ### U18 = Secondary MUX
-* Address =
+* Address = 0x70
 
 ## QIE Card
+* Address = {0x19, 0x1a, 0x1b, 0x1c}
 
 ### U48 = UniqueID Chip
 * DS28CM00R-A00+T
