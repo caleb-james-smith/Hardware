@@ -33,6 +33,7 @@ http://www.microsemi.com/products/fpga-soc/fpga/proasic3-e#documents
 
 ### U38 = Igloo2
 http://www.microsemi.com/document-portal/doc_view/131877-pb0121-igloo2-fpga-product-brief
+http://www.microsemi.com/document-portal/doc_view/132014-ug0451-igloo2-and-smartfusion2-programming-user-guide
 * Microsemi
 * M2GL050
 * FGG896
