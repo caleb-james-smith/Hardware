@@ -10,17 +10,21 @@
 ## ngCCM Emulator
 
 ### U10 = Primary MUX
+http://www.ti.com/product/PCA9548A
 * Address = 0x74
+* PCA9548
 
 ### U18 = Secondary MUX
+http://www.nxp.com/documents/data_sheet/PCA9538.pdf
 * Address = 0x70
-
-### VTTx
-https://edms.cern.ch/ui/file/1140665/1/VTRx_Spec_v2.1.pdf
-* Address = 0x7E
+* PCA9538
 
 ## QIE Card
 https://cms-docdb.cern.ch/cgi-bin/DocDB/RetrieveFile?docid=12782&filename=CMS_HE_FE_Production_Schematic_18MAR2016.pdf&version=2
+
+### U42 = VTTx
+https://edms.cern.ch/ui/file/1140665/1/VTRx_Spec_v2.1.pdf
+* Address = 0x7E
 
 ### U48 = Silicon Serial Number Device (UniqueID)
 http://datasheets.maximintegrated.com/en/ds/DS28CM00.pdf
