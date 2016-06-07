@@ -22,6 +22,7 @@
 * DS28CM00R-A00+T
 
 ### U96 = Bridge FPGA
+http://www.microsemi.com/products/fpga-soc/fpga/proasic3-e#documents
 * Actel
 * ProASIC 3
 * A3P1000
