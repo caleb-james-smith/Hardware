@@ -1,11 +1,13 @@
 # Hardware
+* This repository outlines the hardware used in testing QIE11 cards for the HE upgrade of HCal, 2016-2017. The primary components are the Fanout Board, ngCCM Emulator, and QIE cards.
+* You may fork this repository, add relevant info, and submit a pull request as desired.
 
 ## Fanout
 
 ### Primary MUX
 * Address = 0x72
 
-## ngCCM
+## ngCCM Emulator
 
 ### U10 = Primary MUX
 * Address = 0x74
