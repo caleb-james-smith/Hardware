@@ -54,3 +54,6 @@ http://www.microsemi.com/document-portal/doc_view/132014-ug0451-igloo2-and-smart
 * M2GL050
 * FGG896
 * SKHHK
+
+https://svnweb.cern.ch/cern/wsvn/cms-firmwsrc/hcal/HE_RM_igloo2/trunk/docs/Register_List_IGLOO2.txt
+* <-- Register list for Igloo2
