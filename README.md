@@ -1,6 +1,9 @@
 # Hardware
 * This repository outlines the hardware used in testing QIE11 cards for the HE upgrade of HCal, 2016-2017. The primary components are the Fanout Board, ngCCM Emulator, and QIE cards.
 * You may fork this repository, add relevant info, and submit a pull request as desired.
+* Please see the first link below for CMS Hardware Documentation and Register info.
+Very important link:
+https://svnweb.cern.ch/cern/wsvn/cms-firmwsrc/hcal/?#a36845214e47194eb4f0e8d27c162d4b5
 
 ## Fanout
 
